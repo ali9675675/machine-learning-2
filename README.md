@@ -1,1 +1,1 @@
-Python machine learning
+Python machine learning with jupyter notebook
